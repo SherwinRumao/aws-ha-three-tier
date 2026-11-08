@@ -2,7 +2,7 @@
 
 A multi-AZ web platform on AWS designed for high availability, fault tolerance and horizontal scalability, with layered network security and built-in monitoring and logging. Built manually in the AWS console, validated with failure and load tests, then torn down to control cost.
 
-![Architecture](architecture/ha-architecture.svg)
+![Architecture](architecture/ha-architecture-drawio.png)
 
 ## Highlights
 
