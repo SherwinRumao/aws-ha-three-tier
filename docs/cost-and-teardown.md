@@ -17,7 +17,7 @@ The project was built on a new AWS account using the free plan credits. To keep 
 
 | Item | Value |
 |---|---|
-| Credits used | About $2.48 per the Billing console (billing data lags, so the final figure may be slightly higher) |
+| Credits used | About $4.01 per the Billing console (billing data lags, so the final figure may be slightly higher) |
 | Running time | About a day and a half (5 to 6 November 2026) for the NAT gateway, ALB and RDS |
 | Compute | The Auto Scaling group was scaled to zero overnight to avoid instance charges |
 | RDS created | 5 November 2026, about 20:32 IST (from RDS events) |
